@@ -91,13 +91,13 @@
 0.0.0.0  waze.com        # Waze
 0.0.0.0  whatbrowser.org     # What Browser?
 0.0.0.0  withgoogle.com      # Google
-0.0.0.0  youtu.be        # YouTube
-0.0.0.0  youtube-nocookie.com  # YouTube
-0.0.0.0  youtube.com       # YouTube
-0.0.0.0  youtubeeducation.com  # YouTube
-0.0.0.0  youtubegaming.com   # YouTube
-0.0.0.0  yt.be         # YouTube
-0.0.0.0  ytimg.com       # YouTube
+#0.0.0.0  youtu.be        # YouTube
+#0.0.0.0  youtube-nocookie.com  # YouTube
+#0.0.0.0  youtube.com       # YouTube
+#0.0.0.0  youtubeeducation.com  # YouTube
+#0.0.0.0  youtubegaming.com   # YouTube
+#0.0.0.0  yt.be         # YouTube
+#0.0.0.0  ytimg.com       # YouTube
 
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0.beta.facebook.com
@@ -2242,4 +2242,3 @@
 0.0.0.0 www.pinterest.com.gslb.pinterest.com
 0.0.0.0 www.pinterest.fr
 
-0.0.0.0 min-api.cryptocompare.com
