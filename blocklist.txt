@@ -1,6 +1,9 @@
-0.0.0.0  home-devices.googleapis.com # Google Home
-0.0.0.0  play.googleapis.com
-0.0.0.0  connectivitycheck.gstatic.com 
+127.0.0.1  home-devices.googleapis.com # Google Home
+127.0.0.1  play.googleapis.com
+127.0.0.1  connectivitycheck.gstatic.com 
+127.0.0.1 fonts.googleapis.com
+127.0.0.1 google.com
+127.0.0.1 facebook.com
 0.0.0.0  1e100.net       # Google Cookies
 0.0.0.0  466453.com        # Google
 0.0.0.0  abc.xyz
