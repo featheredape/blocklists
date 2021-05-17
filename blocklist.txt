@@ -1,3 +1,4 @@
+127.0.0.1 cloud.bang-olufsen.com
 127.0.0.1  home-devices.googleapis.com # Google Home
 127.0.0.1  play.googleapis.com
 127.0.0.1  connectivitycheck.gstatic.com 
